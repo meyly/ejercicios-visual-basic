@@ -1,0 +1,11 @@
+c:\users\aprendiz\documents\visual studio 2015\Projects\ejercicio2\ejercicio2\bin\Debug\ejercicio2.exe.config
+c:\users\aprendiz\documents\visual studio 2015\Projects\ejercicio2\ejercicio2\bin\Debug\ejercicio2.exe
+c:\users\aprendiz\documents\visual studio 2015\Projects\ejercicio2\ejercicio2\bin\Debug\ejercicio2.pdb
+c:\users\aprendiz\documents\visual studio 2015\Projects\ejercicio2\ejercicio2\bin\Debug\ejercicio2.xml
+c:\users\aprendiz\documents\visual studio 2015\Projects\ejercicio2\ejercicio2\obj\Debug\ejercicio2.vbprojResolveAssemblyReference.cache
+c:\users\aprendiz\documents\visual studio 2015\Projects\ejercicio2\ejercicio2\obj\Debug\ejercicio2.Form1.resources
+c:\users\aprendiz\documents\visual studio 2015\Projects\ejercicio2\ejercicio2\obj\Debug\ejercicio2.Resources.resources
+c:\users\aprendiz\documents\visual studio 2015\Projects\ejercicio2\ejercicio2\obj\Debug\ejercicio2.vbproj.GenerateResource.Cache
+c:\users\aprendiz\documents\visual studio 2015\Projects\ejercicio2\ejercicio2\obj\Debug\ejercicio2.exe
+c:\users\aprendiz\documents\visual studio 2015\Projects\ejercicio2\ejercicio2\obj\Debug\ejercicio2.xml
+c:\users\aprendiz\documents\visual studio 2015\Projects\ejercicio2\ejercicio2\obj\Debug\ejercicio2.pdb
